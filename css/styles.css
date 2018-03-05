@@ -1,26 +1,62 @@
-#mens, #womens, #children{
-  float:left;
+/* #mens, #womens, #children {
   height:63vh;
-  margin-left: 10vh;
+  margin-left: 40vh;
   margin-bottom: 10vh;
+} */
 
+#children{
+margin-top: -7px;
 }
-
 section{
-  /* background-color: lightgrey; */
+
   padding-top: 10vh;
-  margin-left: -20vh;
 
-
+  padding-bottom: 30vh;
 }
 
 #logo {
-  margin-left: 70vh;
+  margin-left: 80vh;
   margin-bottom: 27vh;
-  margin-top: 15vh;
-  height:80%;
+  margin-top: 20vh;
+  height:35vh;
+  
 
 }
+.imgButton {
+  background-image:url('../img/menswear.jpg');
+  width: 55vh;
+  height:80vh;
+  background-position:center;
+  margin-left: 10vh;
+  background-size: 45vh 490px;
+  background-repeat: no-repeat;
+}
+.imgButton1 {
+  background-image:url('../img/womenswear.jpg');
+  width: 54vh;
+  height:80vh;
+  /* padding-left: 5vh; */
+  margin-left: 20vh;
+  margin-right: -10vh;
+  background-position:center;
+  background-size: 45vh 490px;
+  background-repeat: no-repeat;
+  /* margin-left: 30vw; */
+}
+.imgButton2 {
+  background-image:url('../img/childrenswear.jpg');
+  width: 54vh;
+  height:80vh;
+
+  margin-left: 30vh;
+  background-position:center;
+  background-size: 45vh 490px;
+  background-repeat: no-repeat;
+  text-align: center;
+
+}
+
+
 
 html {
     position: relative;
