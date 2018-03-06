@@ -19,8 +19,33 @@ li a {
   font-family: 'Open Sans';
 }
 
-/* Change the link color to #111 (black) on hover */
+/* Change the link color on hover */
 
 li a:hover {
   background-color: rgb(236, 236, 244);
+}
+
+.jumbotron {
+  background-color: rgb(8, 8, 7);
+  font-family: 'Open Sans';
+  font-size: 60px;
+  text-align: center;
+  color: rgb(194, 206, 228);
+}
+
+/*gallery*/
+
+div.gallery {
+  margin: 5px;
+  float: left;
+}
+
+div.gallery img {
+  width: 200px;
+  height: 400px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
 }
