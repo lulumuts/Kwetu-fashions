@@ -5,12 +5,35 @@
 } */
 
 #children{
-margin-top: -7px;
+margin-top: -20px;
+}
+.panel-transparent {
+    background: none;
+    border:0;
+
+}
+
+.panel-transparent .panel-heading{
+    background: rgba(56, 45, 51, 0.4)!important;
+    border:0;
+    background-color: white;
+}
+
+.panel-transparent .panel-body{
+    background: rgba(56, 45, 51, 0.4)!important;
+    border: 0;
+    background-color: white;
+}
+.panel-body{
+  text-align: center;
+  font-size: 10vh;
+  color:white;
+  border:0;
+  padding-bottom: -4vh;
 }
 section{
 
-  padding-top: 10vh;
-
+  padding-top: 1vh;
   padding-bottom: 30vh;
 }
 
@@ -19,7 +42,10 @@ section{
   margin-bottom: 27vh;
   margin-top: 20vh;
   height:35vh;
-  
+
+
+}
+value {
 
 }
 .imgButton {
@@ -30,6 +56,10 @@ section{
   margin-left: 10vh;
   background-size: 45vh 490px;
   background-repeat: no-repeat;
+  font-size: 10em;
+  color: white;
+  padding-top:50vh;
+  font-size: 7em;
 }
 .imgButton1 {
   background-image:url('../img/womenswear.jpg');
@@ -41,6 +71,9 @@ section{
   background-position:center;
   background-size: 45vh 490px;
   background-repeat: no-repeat;
+  color: white;
+  padding-top:50vh;
+  font-size: 6.6em;
   /* margin-left: 30vw; */
 }
 .imgButton2 {
@@ -53,6 +86,9 @@ section{
   background-size: 45vh 490px;
   background-repeat: no-repeat;
   text-align: center;
+  color: white;
+  padding-top:50vh;
+  font-size: 6.6em;
 
 }
 
