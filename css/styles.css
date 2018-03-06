@@ -70,7 +70,7 @@ section{
   width: 54vh;
   height:80vh;
   /* padding-left: 5vh; */
-  margin-left: 23vh;
+  margin-left: 24vh;
   margin-right: -10vh;
   background-position:center;
   background-size: 87% 90%;
@@ -78,7 +78,7 @@ section{
   color: black;
   padding-top:5vh;
   font-size: 3.6em;
-  padding-left: 24vh;
+  padding-left: 25vh;
   font-family: 'Poiret One', cursive;
   /* margin-left: 30vw; */
 }
@@ -164,13 +164,14 @@ html {
     -o-background-size: cover;
     background-size: cover;
 }
-.item:nth-child(3) {
+.item:nth-child(3)  {
     background: url('../img/carousel14-compressor.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
+
 .item:nth-child(4) {
     background: url('../img/carousel15-compressor.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -192,4 +193,16 @@ html {
   padding: 10px;
   text-shadow: 2px 2px #000;
   color: #FFF;
+}
+
+h1 {
+  padding-bottom: 20vh;
+  padding-top: 10vh;
+  text-align: center;
+}
+
+#kid1, #kid2, #kid3, #men3, #men4 {
+  float:right;
+  width: 54vh;
+  height:80vh;
 }
