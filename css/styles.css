@@ -4,6 +4,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: rgb(6, 2, 13);
+  :
 }
 
 li {
@@ -18,6 +19,8 @@ li a {
   text-decoration: none;
   font-family: 'Open Sans';
 }
+
+/*navbar2*/
 
 /* Change the link color on hover */
 
