@@ -63,7 +63,9 @@ section{
   padding-top:5vh;
   padding-right: 38vh;
   font-size: 3.6em;
-  font-family: 'Poiret One', cursive;
+  font-family: 'Just Another Hand', cursive;
+  letter-spacing: 6px;
+  border:none;
 }
 .imgButton1 {
   background-image:url('../img/womenswear.jpg');
@@ -79,7 +81,9 @@ section{
   padding-top:5vh;
   font-size: 3.6em;
   padding-left: 25vh;
-  font-family: 'Poiret One', cursive;
+  font-family: 'Just Another Hand', cursive;
+  letter-spacing: 6px;
+  border: none;
   /* margin-left: 30vw; */
 }
 .imgButton2 {
@@ -96,7 +100,10 @@ section{
   padding-top:5vh;
   font-size: 3.7em;
   padding-left: 30vh;
-  font-family: 'Poiret One', cursive;
+  font-family: 'Just Another Hand', cursive;
+  letter-spacing: 6px;
+  border:none;
+
 
 }
 
@@ -267,9 +274,61 @@ h1 {
 
 }
 
+#kids13{
+  width:22%;
+  height:61vh;
+  margin-left: 102.9vh;
+  margin-top: -62.8vh;
+  /* float:left; */
+
+
+}
+#kids14{
+  width:35%;
+  height:61vh;;
+  margin-top: -68vh;
+  padding-right: -10vh;
+
+
+}
+/* #kids15{
+  width:25%;
+  height:61vh;;
+  margin-top: -69vh;
+} */
+
+#kids17{
+  width:20%;
+  height:61vh;
+  margin-top: -68vh;
+  margin-right: 28vh;
+  margin-left: 2.7vh;
+
+
+}
+#kids18{
+  width:20%;
+  height:61vh;;
+  margin-top: -62.8vh;
+  float:right;
+  margin-right: 2vh;
+
+}
+
 .nav-link{
   font-size: 2em;
-  font-family: 'Poiret One', cursive;
+  /* font-family: 'Poiret One', cursive; */
+  font-family: 'Just Another Hand', cursive;
   background-color: lightgrey;
   color:white;
+  letter-spacing: 6px;
+}
+
+h1{
+  font-family: 'Poiret One', cursive;
+  text-align: left;
+  padding-left: 5vh;
+  font-size: 20vh;
+  padding-bottom: 2vh;
+  padding-top: 3vh;
 }
