@@ -2,6 +2,11 @@
   display: inline;
 }
 
+#body {
+  background-image: url(../img/bbbg.jpg);
+  background-size: cover;
+}
+
 .nav-link {
   font-size: 60px;
   background-color: lightgrey;
@@ -17,7 +22,13 @@
   margin-left: 0px;
 }
 
+.FONT {
+  font-family: 'Poiret One', cursive;
+  font-size: 250px;
+}
+
 #womens1 {
+  margin-bottom: 60px;
   height: 1000px;
 }
 
@@ -66,7 +77,7 @@
   height: 950px;
 }
 
-.button {
+.nav-barA {
   list-style-type: none;
   margin: 0;
   overflow: hidden;
@@ -95,82 +106,6 @@ li a {
 li a:hover {
   background-color: rgb(236, 236, 244);
 }
-
-/*#womens1 {
-  padding-top: -6vh;
-  width: 20%;
-  height: 63vh;
-  float: right;
-}
-
-#womens2 {
-  width: 19%;
-  height: 63vh;
-  float: right;
-  padding-left: -40vh;
-}
-
-#womens3 {
-  width: 22%;
-  height: 63vh;
-  ;
-  float: right;
-}
-
-#womens4 {
-  width: 19%;
-  height: 63vh;
-  ;
-  float: right;
-}
-
-#womens5 {
-  width: 20%;
-  height: 63vh;
-  margin-bottom: 0px;
-  float: right;
-}
-
-.fa {
-  font-family: 'Poiret One', cursive;
-}
-
-#womens6 {
-  width: 20%;
-  height: 61vh;
-  margin-left: 110vh;
-  margin-top: -62.8vh;
-  float: left;
-}
-
-#womens7 {
-  width: 20%;
-  height: 61vh;
-  ;
-  margin-top: -68vh;
-}
-
-#womens8 {
-  width: 20%;
-  height: 61vh;
-  ;
-  margin-top: -69vh;
-}
-
-#womens9 {
-  width: 21%;
-  height: 61vh;
-  ;
-  margin-top: -68vh;
-}
-
-#womens10 {
-  width: 20%;
-  height: 61vh;
-  ;
-  margin-top: -62.8vh;
-  float: right;
-}*/
 
 #womens6 {
   height: 850px;
