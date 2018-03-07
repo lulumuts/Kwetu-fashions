@@ -291,28 +291,29 @@ h1 {
   width:20%;
   height:67vh;
   margin-top: -69.8vh;
-  margin-left:145vh;
+  margin-left:155vh;
+  margin-right: 1vh;
   padding-bottom: 10vh;
-
-
 }
 
 #kids13{
   width:22%;
-  height:61vh;
-  margin-left: 100vh;
-  padding-right: -2vh;
-  margin-top: -62.4vh;
+  height:32.9em;
+  margin-left: 104vh;
+  padding-right: 0vh;
+  margin-top: -64.4vh;
   padding-bottom: 10vh;
+  padding-top: 1vh;
   /* float:left; */
 
 
 }
 #kids14{
   width:35%;
-  height:61vh;;
-  margin-top: -68vh;
-  padding-right: -10vh;
+  height:32.5em;
+  margin-top: -71.5vh;
+  padding-right: -20vh;
+  margin-left: 0vh;
   padding-bottom: 10vh;
 
 
@@ -325,23 +326,22 @@ h1 {
 
 #kids17{
   width:20%;
-  height:61vh;
-  margin-top: -68vh;
-  margin-right: 28vh;
-  margin-left: 2.3vh;
+  height:32.5em;
+  margin-top: -72vh;
+  margin-right: 30vh;
+  margin-left: -0.55vh;
   padding-bottom: 10vh;
-
-
-
 }
+
 #kids18{
   width:22%;
-  height:60.7vh;
-  margin-top: -62.8vh;
+  height:32em;
+  margin-top: -68.8vh;
   margin-bottom: 20vh;
   float:right;
-  margin-right: 2vh;
+  margin-right: 1em;
   padding-bottom: 10vh;
+  padding-top: -10vh;
 
 }
 .matching {
@@ -373,7 +373,19 @@ border:none;
 
 }
 
-.navbar navbar-default{
-  color:#2E2E2E;
-  background-color: #2E2E2E;
-}
+.navbar-default {
+  background-color:#2E2E2E;
+  background-image: none;
+  background-repeat: no-repeat;
+  font-family: 'Just Another Hand', cursive;
+  color:white;
+  border: none;
+  font-size: 2em;
+
+ }
+
+ #kiddos{
+   background-image: url('../img/background-kids.jpg');
+   background-size: cover;
+
+ }
