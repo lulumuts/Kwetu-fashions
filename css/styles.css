@@ -41,7 +41,7 @@ section{
 }
 
 #logo {
-  margin-left: 80vh;
+  margin-right: 10vh;
   margin-bottom: 27vh;
   margin-top: 20vh;
   height:35vh;
@@ -164,7 +164,7 @@ html {
     -o-background-size: cover;
     background-size: cover;
 }
-.item:nth-child(3)  {
+.item:nth-child(3) {
     background: url('../img/carousel14-compressor.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -200,9 +200,76 @@ h1 {
   padding-top: 10vh;
   text-align: center;
 }
-
-#kid1, #kid2, #kid3, #men3, #men4 {
+#kids1{
+  padding-top: -6vh;
+  width:20%;
+  height:63vh;
   float:right;
-  width: 54vh;
-  height:80vh;
+
+
+}
+#kids2{
+  width:19%;
+  height:63vh;
+  float:right;
+  padding-left: -40vh;
+
+}
+#kids3{
+  width:22%;
+  height:63vh;;
+  float:right;
+
+}
+#kids4{
+  width:19%;
+  height:63vh;;
+  float:right;
+}
+#kids5{
+  width:20%;
+  height:63vh;;
+  float:right;
+}
+.fa  {
+  font-family: 'Poiret One', cursive;
+
+}
+
+#kids6{
+  width:20%;
+  height:61vh;
+  margin-left: 110vh;
+  margin-top: -62.8vh;
+  float:left;
+}
+#kids12{
+  width:20%;
+  height:61vh;;
+  margin-top: -68vh;
+
+}
+#kids8{
+  width:20%;
+  height:61vh;;
+  margin-top: -69vh;
+}
+#kids10{
+  width:21%;
+  height:61vh;;
+  margin-top: -68vh;
+}
+#kids11{
+  width:20%;
+  height:61vh;;
+  margin-top: -62.8vh;
+  float:right;
+
+}
+
+.nav-link{
+  font-size: 2em;
+  font-family: 'Poiret One', cursive;
+  background-color: lightgrey;
+  color:white;
 }

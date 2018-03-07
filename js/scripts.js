@@ -11,4 +11,7 @@
 //         setTimeout(doSlideshow,1000);
 //     });
 // }
+$(document).ready(function(){
+     $("#myCarousel").carousel();
+});
 $('.carousel').carousel();
