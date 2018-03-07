@@ -222,6 +222,8 @@ h1 {
   height:63vh;
   float:right;
   padding-bottom: 10vh;
+  margin-bottom: 20vh;
+
 
 
 }
@@ -231,6 +233,7 @@ h1 {
   float:right;
   padding-left: -40vh;
   padding-bottom: 10vh;
+  margin-bottom: 20vh;
 
 }
 #kids3{
@@ -238,6 +241,7 @@ h1 {
   height:63vh;;
   float:right;
   padding-bottom: 10vh;
+  margin-bottom: 20vh;
 
 }
 #kids4{
@@ -245,11 +249,13 @@ h1 {
   height:63vh;;
   float:right;
   padding-bottom: 10vh;
+  margin-bottom: 20vh;
 }
 #kids5{
   width:20%;
   height:63vh;;
   float:right;
+  margin-bottom: 20vh;
   padding-bottom: 10vh;
 }
 .fa  {
@@ -258,63 +264,73 @@ h1 {
 }
 
 #kids6{
-  width:24%;
+  width:22%;
   height:57vh;
   margin-left: -5vh;
-  margin-top: -68.5vh;
+  margin-top: -105.1vh;
+  margin-bottom: 10vh;
 
   /* float:left; */
 }
 #kids12{
-  width:24%;
+  width:21%;
   height:57vh;
-  margin-top: -68.1vh;
-  margin-right: 20vh;
-  margin-left: -6vh;
+  margin-top: -104.8vh;
+  margin-right: 18vh;
+  margin-left: -1vh;
+  margin-bottom: 10vh;
 }
 #kids8{
   width:20%;
   height:57vh;
-  margin-top: -73.9vh;
+  margin-top: -110.3vh;
   margin-left: 70vh;
+  margin-bottom: 10vh;
 
 
 }
 #kids10{
   width:23%;
   height:57vh;
-  margin-top: -74vh;
+  margin-top: -110.4vh;
   margin-left:-0.5vh;
+  margin-bottom: 10vh;
 
 }
 #kids11{
   width:20%;
-  height:67vh;
-  margin-top: -69.8vh;
-  margin-left:155vh;
+  height:56.9vh;
+  margin-top: -125.8vh;
+  margin-left:145vh;
   margin-right: 1vh;
-  padding-bottom: 10vh;
+  /* padding-bottom: 10vh; */
 }
 
 #kids13{
-  width:22%;
-  height:32.9em;
-  margin-left: 104vh;
-  padding-right: 0vh;
-  margin-top: -64.4vh;
-  padding-bottom: 10vh;
-  padding-top: 1vh;
+  width:24%;
+  height:27.9em;
+  /* margin-right: 10em; */
+  margin-top: -55.6em;
+  margin-left: 77.8vw;
+  /* padding-right: 0vh; */
+
+  /* padding-bottom: 15vh; */
+  /* padding-top: -10vh; */
+
+
   /* float:left; */
 
 
 }
 #kids14{
   width:35%;
-  height:32.5em;
-  margin-top: -71.5vh;
-  padding-right: -20vh;
-  margin-left: 0vh;
-  padding-bottom: 10vh;
+  height:37.7em;
+  margin-top: -48.4em;
+  margin-right: 10vh;
+
+  padding-bottom: 20vh;
+
+  /* padding-bottom: 10vh; */
 
 
 }
@@ -325,27 +341,30 @@ h1 {
 } */
 
 #kids17{
-  width:20%;
-  height:32.5em;
-  margin-top: -72vh;
-  margin-right: 30vh;
-  margin-left: -0.55vh;
-  padding-bottom: 10vh;
+  width:22%;
+  height:37.8em;
+  margin-top: -50.9em;
+  /* margin-right: 30vw; */
+  margin-left: 34.6vw;
+  padding-bottom: 20vh;
+
+  /* padding-bottom: 10vh; */
 }
 
 #kids18{
-  width:22%;
-  height:32em;
-  margin-top: -68.8vh;
+  width:23%;
+  height:55.5vh;
+  margin-top: -48.2em;
   margin-bottom: 20vh;
-  float:right;
-  margin-right: 1em;
-  padding-bottom: 10vh;
-  padding-top: -10vh;
+  /* float:right; */
+  margin-left: 14vw;
+  /* margin-left: -3vw; */
+  /* padding-bottom: 20vh; */
+  /* padding-top: -10vh; */
 
 }
 .matching {
-  padding-bottom: 10vh;
+  padding-bottom: 20vh;
 }
 
 .nav-link{
@@ -387,5 +406,15 @@ border:none;
  #kiddos{
    background-image: url('../img/background-kids.jpg');
    background-size: cover;
+
+ }
+
+ .container{
+   background-color: white;
+   margin-top: 70vh;
+   height:80vh;
+   width:110vw;
+   margin-right: -3vw;
+   opacity:0.9;
 
  }
