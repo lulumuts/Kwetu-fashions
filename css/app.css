@@ -23,7 +23,7 @@
 }
 
 .FONT {
-  font-family: 'Poiret One', cursive;
+  font-family:Poiret One; 
   font-size: 250px;
 }
 
@@ -117,7 +117,44 @@ li a:hover {
   height: 950px;
   width: 750px;
 }
-#photo1{
-  float:right;
-  background-size: cover;
+#photo2{
+  float:left;
+  height: 810px;
+  background-position: center;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+#photo3{
+  height: 800px;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+
+  #photo7{
+    height: 830px;
+    margin-left: 200px;
+    margin-top: 30px;
+  }
+  .button{
+      background-color: skyblue; /* skyblue432 */
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      font-family: Itim;
+      font-size: 60px;
+  }
+  
+.head{
+  font-family: Itim;
+  font-size: 80px;
+  text-transform: uppercase;
+  color: aquamarine;
+}
+.name{
+  font-family: Itim;
+  font-size: 30px;
 }
