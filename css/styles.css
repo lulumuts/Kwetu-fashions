@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* #mens, #womens, #children {
   height:63vh;
   margin-left: 40vh;
@@ -571,3 +572,210 @@ border:none;
   text-align: center;
   font-size: 50px;
 }
+=======
+body {
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+}
+
+h1 {
+  padding-bottom: 20vh;
+  padding-top: 10vh;
+  text-align: center;
+}
+
+#men1 {
+  padding-top: -6vh;
+  width: 20%;
+  height: 63vh;
+  float: right;
+}
+
+#men2 {
+  width: 19%;
+  height: 63vh;
+  float: right;
+  padding-left: -40vh;
+}
+
+#men3 {
+  width: 22%;
+  height: 63vh;
+  ;
+  float: right;
+}
+
+#men4 {
+  width: 19%;
+  height: 63vh;
+  ;
+  float: right;
+}
+
+#men5 {
+  width: 20%;
+  height: 63vh;
+  ;
+  float: right;
+}
+
+.fa {
+  font-family: 'Poiret One', cursive;
+}
+
+#men11 {
+  padding-top: -6vh;
+  width: 20%;
+  height: 63vh;
+  float: right;
+  margin-top: -61.8vh;
+}
+
+#men22 {
+  width: 19%;
+  height: 63vh;
+  float: right;
+  padding-left: -40vh;
+  margin-top: -61.8vh;
+}
+
+#men33 {
+  width: 22%;
+  height: 63vh;
+  ;
+  float: right;
+  margin-top: -61.8vh;
+}
+
+#men44 {
+  width: 19%;
+  height: 63vh;
+  ;
+  float: right;
+  margin-top: -61.8vh;
+}
+
+#men55 {
+  width: 20%;
+  height: 63vh;
+  ;
+  float: right;
+  margin-top: -61.8vh;
+}
+
+#men111 {
+  padding-top: -6vh;
+  width: 20%;
+  height: 63vh;
+  float: right;
+  margin-top: -61.8vh;
+}
+
+#men222 {
+  width: 19%;
+  height: 63vh;
+  float: right;
+  padding-left: -40vh;
+  margin-top: -61.8vh;
+}
+
+#men333 {
+  width: 22%;
+  height: 63vh;
+  ;
+  float: right;
+  margin-top: -61.8vh;
+}
+
+#men444 {
+  width: 20%;
+  height: 63vh;
+  ;
+  float: right;
+  margin-top: -61.8vh;
+}
+
+#men555 {
+  width: 19%;
+  height: 63vh;
+  ;
+  float: right;
+  margin-top: -61.8vh;
+}
+
+.fa {
+  font-family: 'Poiret One', cursive;
+}
+
+#mn1 {
+  width: 19%;
+  height: 33vh;
+  float: right;
+  margin-top: 0.8vh;
+  margin-right: -10.0
+}
+
+#mn2 {
+  width: 22%;
+  height: 33vh;
+  float: right;
+  margin-top: 0.8vh;
+}
+
+#mn3 {
+  width: 22;
+  height: 33vh;
+  float: right;
+  margin-top: 0.8vh;
+}
+
+#mn4 {
+  width: 22%;
+  height: 33vh;
+  float: right;
+  margin-top: 0.8vh;
+}
+
+#mn5 {
+  width: 19%;
+  height: 33vh;
+  margin-top: 0.8vh;
+}
+
+#mn11 {
+  width: 15%;
+  height: 33vh;
+  float: right;
+  margin-top: -32.0vh;
+  margin-right: -2.0vh;
+}
+
+#mn22 {
+  width: 22%;
+  height: 33vh;
+  float: right;
+  margin-top: -32.0vh;
+}
+
+#mn33 {
+  width: 22;
+  height: 33vh;
+  float: right;
+  margin-top: -32.0vh;
+}
+
+#mn44 {
+  width: 20%;
+  height: 33vh;
+  margin-top: -32.0vh;
+  float: right;
+}
+
+#mn55 {
+  width: 20%;
+  height: 33vh;
+  margin-top: -32.0vh;
+  float: right;
+  margin-left: -12.0vh;
+}
+>>>>>>> 226848994cf86957cbaab727c099987fd20bd949
