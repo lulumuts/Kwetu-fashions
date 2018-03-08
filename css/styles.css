@@ -405,6 +405,7 @@ border:none;
   border: none;
   font-size: 2em;
 
+
  }
 
  #kiddos{
@@ -570,4 +571,12 @@ border:none;
 .form-inline{
   text-align: center;
   font-size: 50px;
+}
+
+#menmen-inline{
+  margin-right: 20vw;
+  float:left;
+}
+#page1{
+  margin-right: 20vw;
 }
