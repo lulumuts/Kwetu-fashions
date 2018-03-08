@@ -1,0 +1,160 @@
+.things li {
+  display: inline;
+}
+
+#body {
+  background-image: url(../img/bbbg.jpg);
+  background-size: cover;
+}
+
+.nav-link {
+  font-size: 60px;
+  background-color: lightgrey;
+  color: white;
+  margin-top: 10vh;
+  font-family: 'Just Another Hand', cursive;
+  letter-spacing: 6PX;
+}
+
+#womens31 {
+  height: 1050px;
+  float: left;
+  margin-left: 0px;
+}
+
+.FONT {
+  font-family:Poiret One; 
+  font-size: 250px;
+}
+
+#womens1 {
+  margin-bottom: 60px;
+  height: 1000px;
+}
+
+#womens2 {
+  height: 1050px;
+}
+
+#womens4 {
+  height: 1050px;
+}
+
+#womens13 {
+  height: 1050px;
+}
+
+#womens141 {
+  width: 500px;
+  height: 1050px;
+}
+
+#womens15 {
+  height: 850px;
+}
+
+#womens9 {
+  height: 950px;
+}
+
+#womens10 {
+  height: 950px;
+}
+
+#womens11 {
+  height: 950px;
+}
+
+#womens12 {
+  height: 950px;
+}
+
+#womens20 {
+  height: 950px;
+}
+
+#womens21 {
+  height: 950px;
+}
+
+.nav-barA {
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  background-color: #2E2E2E;
+  padding-bottom: -10vh;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(121, 144, 226);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Just Another Hand';
+  color: White;
+  border: none;
+  font-size: 60px;
+}
+
+/* Change the link color on hover */
+
+li a:hover {
+  background-color: rgb(236, 236, 244);
+}
+
+#womens6 {
+  height: 850px;
+  width: 750px;
+  padding-left: 90px;
+}
+
+#womens3 {
+  height: 950px;
+  width: 750px;
+}
+#photo2{
+  float:left;
+  height: 810px;
+  background-position: center;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+#photo3{
+  height: 800px;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+
+  #photo7{
+    height: 830px;
+    margin-left: 200px;
+    margin-top: 30px;
+  }
+  .button{
+      background-color: skyblue; /* skyblue432 */
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      font-family: Itim;
+      font-size: 60px;
+  }
+  
+.head{
+  font-family: Itim;
+  font-size: 80px;
+  text-transform: uppercase;
+  color: aquamarine;
+}
+.name{
+  font-family: Itim;
+  font-size: 30px;
+}
