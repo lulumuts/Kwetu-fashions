@@ -117,3 +117,7 @@ li a:hover {
   height: 950px;
   width: 750px;
 }
+#photo1{
+  float:right;
+  background-size: cover;
+}
