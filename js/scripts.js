@@ -15,3 +15,20 @@ $(document).ready(function(){
      $("#myCarousel").carousel();
 });
 $('.carousel').carousel();
+
+var things = [];
+
+$("#submit-button").click(function() {
+  var thing = $("#materialFormCardNameEx").val();
+  things.push(thing)
+
+  var thing = $("#materialFormCardEmailEx").val();
+    things.push(thing)
+
+  var thing = $("#materialFormCardEmailEx").val();
+    things.push(thing)
+
+  var thing = $("#materialFormCardConfirmEx").val();
+  things.push(thing)
+
+});
