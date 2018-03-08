@@ -174,7 +174,7 @@ html {
     background-size: cover;
 }
 .item:nth-child(2) {
-    background: url('../img/carousel12-compressor.jpg') no-repeat center center fixed;
+    background: url('../img/carouselA-compressor.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -346,7 +346,7 @@ h1 {
 
 #kids17{
   width:20%;
-  height:36.8em;
+  height:37.8em;
   margin-top: -50.9em;
   /* margin-right: 30vw; */
   margin-left: 39.6vw;
@@ -357,11 +357,11 @@ h1 {
 
 #kids18{
   width:21%;
-  height:57.5vh;
+  height:55.2vh;
   margin-top: -48.2em;
   margin-bottom: 20vh;
   /* float:right; */
-  margin-left: 19.5vw;
+  margin-left: 18.5vw;
   /* margin-left: -3vw; */
   /* padding-bottom: 20vh; */
   /* padding-top: -10vh; */
@@ -416,7 +416,7 @@ border:none;
 
  .container{
    background-color: white;
-   margin-bottom: 10vh;
+   margin-bottom: 1vh;
    height:110vh;
    width:100vw;
    margin-right: 10vw;
@@ -484,3 +484,90 @@ border:none;
    color: black;
    letter-spacing: 2px;
  }
+
+ form{
+   width:122%;
+   margin-left: -2vw;
+   margin-bottom: 20vh;
+   color:black;
+   background-color: white;
+   background-blend-mode: hard-light;
+   padding:2em;
+   border-radius: 5%;
+   margin-top: 8vh;
+
+ }
+ button{
+   margin-top: 2vh;
+   color:white;
+   background-color: darkgrey;
+ }
+
+ #subscribe{
+   font-size: 10vh;
+   font-family: 'Poiret One', cursive;
+ }
+
+ /* .grey-text{
+   font-family: 'Poiret One', cursive;
+
+ } */
+
+ h2{
+   padding-bottom: 20vh;
+ }
+ #details{
+   margin-left: 25vw;
+   width:50%;
+   height:10vh;
+   margin-bottom: 10vh;
+   margin-top: -10vh;
+   border-radius: 5%;
+ }
+ .h4{
+   font-size: 6vh;
+   font-family: 'Poiret One', cursive;
+ }
+ .font-weight-light{
+   font-family: 'Just Another Hand', cursive;
+   letter-spacing: 2px;
+   font-size: 20px;
+   padding-top: 2vh;
+   color:darkgrey;
+ }
+
+ label{
+   font-family: 'Just Another Hand', cursive;
+   letter-spacing: 2px;
+   font-size: 20px;
+   padding-top: 2vh;
+   color:darkgrey;
+ }
+
+ #radio{
+   margin-right: 50%;
+   float:right;
+   margin-top: -90vh;
+   text-align: center;
+   margin-left: 80vw;
+   font-size: 10px;
+ }
+
+ #newsletter{
+   width:90%;
+   /* margin-left: 2vw; */
+
+ }
+
+#question{
+  font-family: 'Just Another Hand', cursive;
+  letter-spacing: 2px;
+  font-size: 30px;
+  padding-top: 2vh;
+  color:darkgrey;
+  text-align: left;
+}
+.form-inline{
+  text-align: center;
+  font-size: 50px;
+}
