@@ -40,12 +40,14 @@ section{
   padding-bottom: 30vh;
 }
 
-#logo {
+#logo  {
+
   margin-left: 65vh;
   margin-bottom: 27vh;
   margin-top: 20vh;
   height:35vh;
   position:relative;
+
 
 
 }
@@ -59,12 +61,13 @@ section{
   margin-top: 5vh;
   border: none;
 } */
-.imgButton {
+.imgButton  {
   background-image:url('../img/men4.jpg');
+
   width: 62vh;
   height:80vh;
   background-position:center;
-  margin-left: 10vh;
+  margin-left: 5vh;
   margin-right: 30vh;
   background-size: 88% 90%;
   background-repeat: no-repeat;
@@ -76,13 +79,15 @@ section{
   font-family: 'Just Another Hand', cursive;
   letter-spacing: 6px;
   border:none;
+
 }
-.imgButton1 {
+.imgButton1  {
   background-image:url('../img/womenswear.jpg');
+
   width: 54vh;
   height:80vh;
   /* padding-left: 5vh; */
-  margin-left: 24vh;
+  margin-left: 6vh;
   margin-right: -10vh;
   background-position:center;
   background-size: 87% 90%;
@@ -94,14 +99,14 @@ section{
   font-family: 'Just Another Hand', cursive;
   letter-spacing: 6px;
   border: none;
+
   /* margin-left: 30vw; */
 }
-.imgButton2 {
+.imgButton2  {
   background-image:url('../img/childrenswear.jpg');
   width: 54vh;
   height:80vh;
-
-  margin-left: 30vh;
+  margin-left: -1vh;
   background-position:center;
   background-size: 87% 90%;
   background-repeat: no-repeat;
@@ -115,6 +120,25 @@ section{
   border:none;
 
 
+
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .imgButton2 {
+      margin-left: 10vw;
+    }
+    .imgButton1 {
+      margin-left: 10vw;
+    }
+    #logo {
+      margin-left: 19vw;
+    }
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-4"] {
+        width: 100%;
+    }
 }
 
 
